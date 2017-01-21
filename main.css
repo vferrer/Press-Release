@@ -1,0 +1,21 @@
+body {
+	background-color: lightgrey;
+	padding: 20px;
+	font-family: arial;
+}
+
+.container {
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+}
+
+.nav {
+	text-align: center;
+	margin: 5px;
+}
+
+.joe {
+	margin: 5px;
+	text-align: center;
+	font-size: 28pt;
+}
